@@ -72,7 +72,7 @@
 
 ## 📫 Conéctate conmigo
 - 📧 **Correo:** axeldoge4@gmail.com  
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/axel-herrera-83101b2aa/)) *(Agrega tu perfil)* 
+- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/axel-herrera-83101b2aa/)) *(https://www.linkedin.com/in/axel-herrera-83101b2aa/)* 
 
 ---
 
