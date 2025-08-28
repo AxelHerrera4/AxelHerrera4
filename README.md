@@ -3,15 +3,15 @@
 🎯 **Ingeniero de Software en formación | Full Stack Developer | Entusiasta de Ciberseguridad y Diseño Digital**  
 
 💻 Me apasiona crear soluciones innovadoras, aprender nuevas tecnologías y aportar valor en proyectos de desarrollo de software.  
-📍 Desde Ecuador 🌎
+📍 Desde Ecuador 🌎  
 
 ---
 
 ## 🚀 Sobre mí
 - 🎓 Estudiante de **Ingeniería de Software** en la Universidad ESPE.  
-- 🛠️ Experiencia desarrollando aplicaciones **Full Stack** y proyectos con integración de **bases de datos**.  
-- 🌱 Aprendiendo y experimentando con **arquitecturas escalables, DevOps, IA y desarrollo móvil**.  
-- 🎨 Me gusta combinar **tecnología** y **diseño** para crear experiencias atractivas.  
+- 🛠️ Experiencia desarrollando aplicaciones **Full Stack** con integración de **bases de datos** y múltiples tecnologías.  
+- 🌱 Aprendiendo y experimentando con **DevOps, Arquitecturas Escalables, IA y Desarrollo Móvil**.  
+- 🎨 Me encanta combinar **tecnología** y **diseño** para crear experiencias atractivas.  
 
 ---
 
@@ -31,6 +31,8 @@
 
 ### 🔹 Frameworks y Librerías
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -72,7 +74,7 @@
 
 ## 📫 Conéctate conmigo
 - 📧 **Correo:** axeldoge4@gmail.com  
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/axel-herrera-83101b2aa/)) *(https://www.linkedin.com/in/axel-herrera-83101b2aa/)* 
+- 💼 [LinkedIn](https://www.linkedin.com/in/axel-herrera-83101b2aa/)  
 
 ---
 
